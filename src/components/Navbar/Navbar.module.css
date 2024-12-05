@@ -1,0 +1,6 @@
+.navList li {
+  transition: 0.5s;
+}
+.navList li:hover {
+  color: cornflowerblue;
+}

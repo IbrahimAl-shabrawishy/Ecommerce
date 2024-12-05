@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.row {
+  @apply flex flex-wrap justify-center w-4/5 mx-auto;
+}
+
+body {
+  background-color: #f9f9f9;
+  color: black;
+}
+
+h1 {
+  text-shadow: 1px 2px 2px wheat;
+  font-size: 28px;
+  transition: 0.5s;
+}
+
+h1:hover {
+  text-shadow: 1px 2px 2px #000;
+  transform: scale(1.1);
+}

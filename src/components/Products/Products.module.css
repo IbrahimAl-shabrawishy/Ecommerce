@@ -1,0 +1,17 @@
+.card {
+  background-color: #ffffff;
+  transition: 0.5s;
+}
+
+.images {
+  transition: 0.5s;
+}
+.images:hover {
+  scale: 1.1;
+}
+
+.lottie {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
