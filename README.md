@@ -96,7 +96,7 @@ npm run dev
 Frontend Developer (React.js)
 
 * GitHub: https://github.com/IbrahimAl-shabrawishy/Ecommerce
-* LinkedIn: *Add your LinkedIn profile link*
+* LinkedIn: https://www.linkedin.com/in/ibrahim-al-shabrawishy-00a8331b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
